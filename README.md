@@ -8,8 +8,6 @@ Navega a través de las categorías, descubre nuevas perspectivas y encuentra im
 
 Bienvenido a nuestra galería de imágenes web, donde las imágenes cobran vida y las historias se cuentan a través de cada captura. Sumérgete en un viaje visual y déjate inspirar por la belleza que nuestro mundo tiene para ofrecer."
 
-## Installation
-
 ## Instalación
 
 Para ejecutar esta página web localmente, necesita tener Ruby on Rails instalado en su sistema. Puede seguir las instrucciones [aquí](https://guides.rubyonrails.org/getting_started.html) para configurar Rails.
