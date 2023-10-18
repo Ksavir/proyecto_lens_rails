@@ -1,24 +1,26 @@
-# Walter Alarcón Garcés Gallery
+# Galeria de Kevin Rivas 
 
-This gallery of photos showcases the work of a talented photographer who captures the beauty of the natural world in stunning detail. The photos are a feast for the eyes, with vivid colors, dramatic landscapes, and intimate portraits of wildlife.
+"Explora nuestro cautivador mundo visual a través de nuestra galería de imágenes en línea. Nuestra galería te sumerge en un viaje visual lleno de color, creatividad y diversidad. Desde paisajes impresionantes y retratos emotivos hasta obras de arte únicas y momentos inolvidables capturados, nuestra colección de imágenes abarca una amplia gama de temas y estilos.
 
-The photographer has a keen eye for composition and light, and their photos are full of emotion and atmosphere. Whether you're a fan of nature photography or simply appreciate beautiful images, you're sure to find something to love in this gallery.
+Admira la destreza de los fotógrafos y artistas que han capturado la esencia de sus sujetos en cada imagen. Nuestra galería de imágenes web es una ventana a la creatividad y la expresión artística. Ya sea que estés buscando inspiración, quieras disfrutar de la belleza visual o simplemente desees explorar el mundo a través de la lente de un fotógrafo, nuestra galería tiene algo para todos.
 
-The photos are organized into several categories, including landscapes, wildlife, and portraits. Each category includes a brief introduction that provides context for the photos. The photos are also accompanied by captions that provide additional information about the subject matter and the photographer's process.
+Navega a través de las categorías, descubre nuevas perspectivas y encuentra imágenes que te emocionarán. Además, si eres un creador de contenido, puedes compartir tus propias obras en nuestra plataforma y ser parte de nuestra comunidad artística en crecimiento.
 
-The gallery is a great way to explore the work of a talented photographer and to learn more about the natural world. It's also a great source of inspiration for aspiring photographers.
+Bienvenido a nuestra galería de imágenes web, donde las imágenes cobran vida y las historias se cuentan a través de cada captura. Sumérgete en un viaje visual y déjate inspirar por la belleza que nuestro mundo tiene para ofrecer."
 
 ## Installation
 
-To run this web page locally, you need to have Ruby on Rails installed on your system. You can follow the instructions [here](https://guides.rubyonrails.org/getting_started.html) to set up Rails.
+## Instalación
 
-Then, clone this repository to your local machine:
+Para ejecutar esta página web localmente, necesita tener Ruby on Rails instalado en su sistema. Puede seguir las instrucciones [aquí](https://guides.rubyonrails.org/getting_started.html) para configurar Rails.
+
+Luego, clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/WalterAlarconGarces/SegundoProyectoRuby.git
+git remote add origin https://github.com/Ksavir/proyecto_lens_rails.git
 ```
 
 ## Créditos
 
-- Este proyecto fue creado por Walter Alarcón Garces como parte de una evaluación del curso de Ruby.
-- [@WalterAlarconGarces](https://github.com/WalterAlarconGarces)
+- Desarrollado por Kevin Rivas.
+- [@KevinRivas](https://github.com/Ksavir)
